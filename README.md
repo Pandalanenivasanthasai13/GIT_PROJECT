@@ -1,2 +1,6 @@
 # GIT_PROJECT
-DETAILS
+*78
+*89
+  *8
+  *9
+  
